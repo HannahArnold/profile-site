@@ -4,7 +4,7 @@
     font-family: 'Roboto Mono', monospace;
     color: whitesmoke;
     box-sizing: border-box;
-padding: auto;
+padding: 40px 40px 20px 20px;
  }
 #mainTitle {
     
@@ -28,3 +28,24 @@ h6{
 .small {
   font-size: 30px;
 }
+
+#myBtn {
+  display: none;
+  position: fixed;
+  bottom: 20px;
+  right: 30px;
+  z-index: 99;
+  border: none;
+  outline: none;
+  background-color: purple;
+  color: white;
+  cursor: pointer;
+  padding: 15px;
+  border-radius: 10px;
+  font-size: 18px;
+}
+#myBtn:hover {
+  background-color: lightskyblue;
+}
+    
+

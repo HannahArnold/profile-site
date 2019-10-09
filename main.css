@@ -1,6 +1,6 @@
 * {
-    background-color: rgb(175, 153, 224);
-    font-size: 30px;
+   background-color: rgb(158, 158, 179);
+  font-size: 35px;
     font-family: 'Roboto Mono', monospace;
     color: whitesmoke;
     box-sizing: border-box;
@@ -68,6 +68,17 @@ h6{
   padding: 100px 20px;
   height: 100%
 }
+
+body {
+  background-image:https://wallpaperaccess.com/full/6803.jpg("Backgd.jpg");
+
+}
+
+
+
+
+
+
 #AboutMe {background-color:lightpink;}
 #Qualifications {background-color:lightblue;}
 #ContactInfo {background-color:lightcyan;}

@@ -1,5 +1,5 @@
 * {
-   background-color: rgb(158, 158, 179);
+   background-color:		rgb(204, 217, 255);
     font-size: 35px;
     font-family: 'Roboto Mono', monospace;
     color: whitesmoke;
@@ -10,10 +10,34 @@
   font-family: 'Pacifico', cursive;
     color: white;
 }
-h6{
-  font-size: 20px;
-  font-family: 'Mansalva', cursive;
+#cat {
+  width: 50px;
+   height: 75px;
 }
+
+h1{
+  font-size: 35px;
+  font-family: 'Roboto Mono', monospace;
+  color: whitesmoke;
+  box-sizing: border-box;
+  padding: 40px 40px 20px 20px;
+}
+
+h2{
+  font-size: 35px;
+    font-family: 'Roboto Mono', monospace;
+    color: whitesmoke;
+    box-sizing: border-box;
+    padding: 40px 40px 20px 20px;
+}
+h3{
+  font-size: 35px;
+    font-family: 'Roboto Mono', monospace;
+    color: whitesmoke;
+    box-sizing: border-box;
+    padding: 40px 40px 20px 20px;
+}
+
 img {
    width: 30%
  }

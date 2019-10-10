@@ -83,9 +83,11 @@ img {
 
 }
 button {
-  width: 200px;
+  width: 400px;
   border: none;
 }
-
+.flip{
+  transform: scaleX(-1);
+}
 
 

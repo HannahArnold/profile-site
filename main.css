@@ -1,5 +1,6 @@
 * {
    background-color:		rgb(204, 217, 255);
+   background: url(Backgd.jpg);
     font-size: 35px;
     font-family: 'Roboto Mono', monospace;
     color: whitesmoke;
@@ -7,7 +8,7 @@
     /* padding: 40px 40px 20px 20px; */
  }
 #mainTitle {  
-  font-family: 'Pacifico', cursive;
+  font-family: 'Cookie', cursive;
     color: white;
     text-shadow: 2px 2px #F0F0F0;
 }
@@ -54,7 +55,7 @@ img {
 }
 
 #top {
-  font-size: 20px;
+  font-size: 400px;
   font-family: 'Roboto Mono', monospace;
     color: whitesmoke;
 }
